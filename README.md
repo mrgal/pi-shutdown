@@ -32,7 +32,7 @@ executed.
 
 You can change the pin number in "pi-shutdown.c", line 11, constant PIN. 
 But be aware that wiringPi pin numbers need to be defined there, see
-http://wiringpi.com/pins or type:
+https://de.pinout.xyz/pinout/wiringpi or type:
 ```
   gpio readall
 ```
